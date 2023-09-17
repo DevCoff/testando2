@@ -1,0 +1,22 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(93, 59, 17, 0.994);    
+}
+h1, h2 {
+    text-align: center;
+}
+h3 {
+    text-decoration: underline;
+    color: rgba(63, 41, 14, 0.994);
+}
+.ingredientes, #fazer {
+    border: 2px solid rgba(63, 41, 14, 0.994);
+    padding: 20px;
+}
+ul {
+    font-size: 18px;
+    line-height: 30px;
+}
+img {
+    width:100%;
+}
